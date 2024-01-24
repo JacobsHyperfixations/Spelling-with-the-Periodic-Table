@@ -8,6 +8,6 @@ words_alpha.txt from https://github.com/dwyl/english-words\
 TWL06.txt from https://github.com/cviebrock/wordlists\
 valid_words.txt contains the valid words from master_list.txt\
 valid_words_stats.txt contains the valid words and bonus information.\
-I can upload my figures and data analysis code if anyone is interested.\\
+I can upload my figures and data analysis code if anyone is interested.\
 Example usage of spelling_with_the_PT.py\
 python spelling_with_the_PT.py all_words.txt valid_words.txt valid_words_stats.txt
